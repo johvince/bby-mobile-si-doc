@@ -289,7 +289,7 @@
           "stores"
         ],
         "summary": "Stores",
-        "description": "Returns store locations and other useful store details",
+        "description": "Returns store locations and other useful store details. Example request:https://msi.bbycastatic.ca/mobile-si/si/stores/49.225539,-122.657908",
         "operationId": "",
         "produces": [
           "application/json"
