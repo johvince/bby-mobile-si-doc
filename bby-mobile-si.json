@@ -242,7 +242,7 @@
           "reviews"
         ],
         "summary": "Product Reviews",
-        "description": "Returns Canadian and US product reviews",
+        "description": "Returns Canadian and US product reviews. there is another api available. Example request:http://www.bestbuy.ca/api/v2/json/reviews/10415309?page=1&pagesize=700&source=us",
         "operationId": "",
         "produces": [
           "application/json"
