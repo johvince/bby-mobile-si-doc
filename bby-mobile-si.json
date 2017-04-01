@@ -264,6 +264,16 @@
             "allowEmptyValue": false,
             "default": "en",
             "enum": ["en","fr"]
+          },
+          {
+            "name": "source",
+            "in": "query",
+            "description": "The source of the review [can|us]",
+            "required": false,
+            "type": "string",
+            "allowEmptyValue": false,
+            "default": "can",
+            "enum": ["can","us"]
           }
         ],
         "responses": {
